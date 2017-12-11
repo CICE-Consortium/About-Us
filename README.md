@@ -23,8 +23,6 @@ CICE developers who are not affiliated with Consortium Members will be able to a
 
 ## About our github project space
 
-*The project space is still under construction.*
-
 Four repositories reside in <https://github.com/CICE-Consortium>:   
 
 **About-Us**:  General information about the Consortium, including Governance and policy documents   
