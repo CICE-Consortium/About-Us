@@ -28,7 +28,7 @@ Five repositories reside in <https://github.com/CICE-Consortium>:
 **About-Us**:  General information about the Consortium, including Governance and policy documents   
 **CICE**: the primary CICE code repository   
 **Icepack**:  the sea ice column physics, suitable for inclusion in other sea ice models; Icepack is included in CICE as a git submodule   
-**CICE-svn-trunk**:  the entire trunk of the previous subversion repository, including prior releases 
+**CICE-svn-trunk**:  the entire trunk of the previous subversion repository, including prior releases    
 **Test-Results**:  Output from our testing scripts for both CICE and Icepack
 
 Private branches from the svn repository have been archived; contact the Lead Coordinator if you need access.
