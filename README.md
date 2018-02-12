@@ -7,20 +7,6 @@ The CICE model is the result of an effort to develop a computationally efficient
 
 Although the initial focus of the Consortium is on the CICE sea ice model, there is a desire to continue our collaborations in the longer term, beyond the life of CICE. Therefore the Consortium will be set up as a framework able to evolve with general sea ice model contributions in the future. 
 
-## Who can be a CICE Consortium Member?
-
-Initially, Consortium Members are the entities (agencies or institutions) that are contributing in-kind FTE funding to support the CICE model as part of the Consortium. Each entity is responsible for maintaining part of the code and assisting others to incorporate new code developments.  In 2017, Consortium Members are
-
-DOE Los Alamos National Laboratory  
-DoD Naval Postgraduate School  
-DoD Naval Research Laboratory, Stennis Space Center  
-Environment and Climate Change Canada  
-NOAA Geophysical Fluid Dynamics Laboratory  
-NOAA National Weather Service  
-NSF National Center for Atmospheric Research
-
-CICE developers who are not affiliated with Consortium Members will be able to access the code and contribute their developments for use by the community, via the Consortium's procedures and with help from Consortium Members. The role of the Consortium is not to develop the model, but to aid the community in its development of the code. (Consortium Members may also develop the code under non-Consortium funding streams.)
-
 ## About our github project space
 
 Five repositories reside in <https://github.com/CICE-Consortium>:   
