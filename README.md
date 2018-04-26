@@ -22,4 +22,3 @@ Five repositories reside in <https://github.com/CICE-Consortium>:
 * [Resources](https://github.com/CICE-Consortium/About-Us/wiki/Resource-Index): https://github.com/CICE-Consortium/About-Us/wiki/Resource-Index
 
    List of resources for information about the Consortium, including contact information, as well as information about the Consortium's repositories, model documentation, testing, and development.
-
