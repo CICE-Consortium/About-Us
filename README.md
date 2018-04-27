@@ -15,10 +15,10 @@ Several repositories reside in <https://github.com/CICE-Consortium> including:
    * **CICE-svn-trunk**:  the entire trunk of the previous subversion repository, including prior releases. Private branches from the svn repository have been archived; contact the Lead Coordinator if you need access.
 
 ## Useful links
-* [About-Us wiki](https://github.com/CICE-Consortium/About-Us/wiki): https://github.com/CICE-Consortium/About-Us/wiki
+* **About-Us wiki**: https://github.com/CICE-Consortium/About-Us/wiki
 
    Information about the CICE consortium and its repositories
 
-* [Resources](https://github.com/CICE-Consortium/About-Us/wiki/Resource-Index): https://github.com/CICE-Consortium/About-Us/wiki/Resource-Index
+* **Resources**: https://github.com/CICE-Consortium/About-Us/wiki/Resource-Index
 
    List of resources for information about the Consortium, including contact information, as well as information about the Consortium's repositories, model documentation, testing, and development.
