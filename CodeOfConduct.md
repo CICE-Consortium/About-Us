@@ -31,6 +31,11 @@ Examples of unacceptable behavior by participants include:
 * Intimidating, threatening, or hostile conduct; physical or verbal abuse; vandalism; arson; and sabotage
 * Alarming or threatening comments that might refer to, suggest, or promote a violent, intimidating, or threatening action
 
+## Scope
+
+This Code of Conduct applies both within project spaces and in public spaces when an 
+individual is representing the project or its community. 
+
 ## Our Responsibilities
 
 The CICE Consortium is responsible for clarifying the standards of acceptable behavior and 
@@ -41,11 +46,6 @@ The CICE Consortium has the right and responsibility to remove, edit, or reject 
 commits, code, wiki edits, issues, and other contributions that are not aligned to this 
 Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors 
 that are deemed inappropriate, threatening, offensive, or harmful.
-
-## Scope
-
-This Code of Conduct applies both within project spaces and in public spaces when an 
-individual is representing the project or its community. 
 
 ## Enforcement
 
