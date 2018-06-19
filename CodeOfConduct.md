@@ -61,8 +61,7 @@ against a person who initiates a complaint or an inquiry about such behaviors is
 prohibited.
 
 CICE Consortium members who do not follow or enforce the Code of Conduct in good faith may 
-face temporary or permanent repercussions as determined by other members of the project's 
-leadership.
+face temporary or permanent repercussions as determined by the Lead Coordintor and Team Leads. 
 
 ## Attribution
 
