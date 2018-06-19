@@ -52,12 +52,14 @@ that are deemed inappropriate, threatening, offensive, or harmful.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the
 [Community Liaison or Lead Coordinator](https://github.com/CICE-Consortium/About-Us/wiki/Contacting-the-Consortium) 
 or individual CICE Consortium members, who will then have the responsibility to talk about the behavior to the other members of the Consortium. 
+
 The Lead Coordinator and Team Leads will review and investigate all complaints, 
 and will respond in a way that they deem appropriate to the circumstances. The 
-Lead Coordinator has final authority on addressing complaints. All members of the project
-team are obligated to maintain confidentiality with regard to the reporter of an incident. 
-Further details of specific enforcement policies may be posted separately. Retaliation 
-against a person who initiates a complaint or an inquiry about such behaviors is equally 
+Lead Coordinator has final authority on addressing complaints. 
+
+All members of the project team are obligated to maintain confidentiality with regard to the 
+reporter of an incident. Further details of specific enforcement policies may be posted separately. 
+Retaliation against a person who initiates a complaint or an inquiry about such behaviors is equally 
 prohibited.
 
 CICE Consortium members who do not follow or enforce the Code of Conduct in good faith may 
