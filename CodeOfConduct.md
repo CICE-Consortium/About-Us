@@ -34,7 +34,9 @@ Examples of unacceptable behavior by participants include:
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces when an 
-individual is representing the project or its community. 
+individual is representing the project or its community. Users of this website and the 
+CICE Consortium repositories are subject to and bound by the Contributor Covenant 
+Code of Conduct, and persons so using these materials agree to abide by its terms.
 
 ## Our Responsibilities
 
@@ -51,7 +53,7 @@ that are deemed inappropriate, threatening, offensive, or harmful.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the
 [Community Liaison or Lead Coordinator](https://github.com/CICE-Consortium/About-Us/wiki/Contacting-the-Consortium) 
-or individual CICE Consortium members, who will then have the responsibility to talk about the behavior to the other members of the Consortium. 
+or individual CICE Consortium members. 
 
 The Lead Coordinator and Team Leads will review and investigate all complaints, 
 and will respond in a way that they deem appropriate to the circumstances. The 
