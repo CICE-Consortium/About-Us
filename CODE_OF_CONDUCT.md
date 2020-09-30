@@ -17,9 +17,8 @@ Examples of behaviors that contribute to a positive environment include:
 * All participants are treated with respect and consideration, valuing a diversity of views and opinions
 * Be considerate, respectful, and collaborative
 * Communicate openly with respect for others, critiquing ideas rather than individuals and gracefully accepting criticism
-* Acknowledging the contributions of others
+* Acknowledge the contributions of others
 * Avoid personal attacks directed toward other participants
-* Be mindful of your surroundings and of your fellow participants 
 * Respect the rules and policies of the project and venue
 
 Examples of unacceptable behavior include, but are not limited to:
@@ -50,8 +49,7 @@ CICE Consortium administrators are responsible for clarifying the standards of a
 The Lead Coordinator and Team Leads are normally the ones that would be tasked to carry out the actions in the [Consequences](#consequences) section below.
 
 ## Reporting
-Instances of unacceptable behavior may also be reported directly to 
-contacting the
+Instances of unacceptable behavior may also be reported directly by contacting 
 [Community Liaison or Lead Coordinator](https://github.com/CICE-Consortium/About-Us/wiki/Contacting-the-Consortium)
 or individual CICE Consortium members.
 
@@ -69,10 +67,8 @@ Upon receipt of a complaint, the Lead Coordintor and Team Leads may take any act
 Such action can include things such as: removing, editing, or rejecting comments, commits, code, wiki edits, email, issues, and other contributions that are not aligned to this Code of Conduct, or banning temporarily or permanently any contributor for other behaviors that are deemed inappropriate, threatening, offensive, or harmful.
 
 ## Attribution
-This Code of Conduct was originally adapted from the [Contributor Covenant](http://contributor-covenant.org/version/1/4), version 1.4.
-We then aligned it with the UCAR Participant Code of Conduct, which also borrows from the American Geophysical Union (AGU) Code of Conduct.
-The UCAR Participant Code of Conduct applies to both UCAR employees as well as participants in activities run by UCAR.
-The original version of this for all software projects that have strong management from UCAR or UCAR staff is available on the UCAR website at https://doi.org/10.5065/6w2c-a132.
+This Code of Conduct was adapted from the UCAR Participant Code of Conduct, and the original version 
+is available on the UCAR website at https://doi.org/10.5065/6w2c-a132.
 The date that it was adopted by the CICE Consortium was October 1, 2020.
 
 
