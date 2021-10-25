@@ -1,3 +1,6 @@
+
+![RD100 award](images/RD100_2021.jpg)
+
 ## Overview
 
 The CICE Consortium is a group of stakeholders and primary developers of the Los Alamos sea ice model (CICE), formed 
