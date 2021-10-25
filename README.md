@@ -1,5 +1,5 @@
 
-![RD100 award](images/RD100_2021.jpg)
+<img src="images/RD100_2021.png" width="100">
 
 ## Overview
 
