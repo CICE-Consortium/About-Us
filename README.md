@@ -1,5 +1,5 @@
 
-<img src="images/RD100_2021.png" width="300">
+<img src="images/logos.jpg" width="300">
 <a href="https://www.rdworldonline.com/2021-rd-100-award-winners/"><img src="images/RD100_2021.png" width="100"></a>
 
 ## Overview
