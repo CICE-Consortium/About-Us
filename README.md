@@ -1,12 +1,12 @@
 
-<a href="https://www.rdworldonline.com/2021-rd-100-award-winners/"><img src="images/RD100_2021.png" width="100"></a>
+<a href="https://www.rdworldonline.com/2021-rd-100-award-winners/"><img src="images/RD100_2021.png" width="150"></a>
 
 ## Overview
 
 The CICE Consortium is a group of stakeholders and primary developers of the Los Alamos sea ice model (CICE), formed 
 *to maintain the current CICE model for existing and new users, to incorporate and maintain new research and development, and to accelerate scientific sea ice model development and its transfer into operational use.*
 
-<img src="images/logos.png" width="300">
+<img src="images/logos.png" width="450">
 
 The CICE model was originally developed and maintained by the Department of Energy as a computationally efficient sea ice component for use in fully coupled, atmosphere-ice-ocean-land global circulation models. Over the past two decades, a broad community of climate and weather forecasting groups have adopted and enhanced the code. The CICE consortium was formed as a vehicle for collaboration in sea ice model support and development as the community continues to use and improve the model. The Consortium is set up as a framework able to evolve with general sea ice model future contributions in order to fulfill the desire to continue our collaborations in the longer term, beyond the life of CICE.
 
