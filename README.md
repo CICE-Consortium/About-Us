@@ -12,7 +12,7 @@ The CICE model was originally developed and maintained by the Department of Ener
 
 The CICE Consortium has been recognized for the success of the CICE model over time as well as the transition to a more open framework.
 
-<a href="https://www.rdworldonline.com/2021-rd-100-award-winners/"><img src="images/RD100_2021.png" width="150"></a>
+<a href="https://www.rdworldonline.com/2021-rd-100-award-winners/"><img src="https://user-images.githubusercontent.com/12142035/138731407-4564cf60-da0c-45ab-9bce-9439d5d5837c.png" width="150"></a>
 
 ## Our GitHub project space
 Several repositories reside in <https://github.com/CICE-Consortium> including:   
